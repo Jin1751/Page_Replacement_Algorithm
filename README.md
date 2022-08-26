@@ -1,5 +1,5 @@
 # Page_Replacement_Algorithm
-## Implement of page replacement algorithm in OS
+## Implement of page replacement algorithms in OS
 
 + These codes implement of 4 page replacement algorithms
   - FIFO
