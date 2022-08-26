@@ -1,13 +1,13 @@
 # Page_Replacement_Algorithm
 ##Implement of page replacement algorithm in OS
 
-+##These codes implement of 4 page replacement algorithms
++These codes implement of 4 page replacement algorithms
   - FIFO
   - OPT
   - LRU
   - LFU
 
-+##Code Info.
++Code Info.
   - Codes are written in C language
   - Default size of Frame Array is 3
     - Frame array size can be change by adding frame related codes
